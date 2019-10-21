@@ -1,4 +1,4 @@
 ---
 title: "Uaaa"
-date: YYYY-MM-DD
+date: 2019-10-21
 ---
